@@ -1,1 +1,1 @@
-shakespear NanoGPT model using pytorch
+shakespear Nano GPT model using pytorch

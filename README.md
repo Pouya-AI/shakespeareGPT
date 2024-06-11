@@ -2,4 +2,4 @@ building & training GPT from scratch based off of [Andrej Karpathy: Let's build 
 
 dataset: allines (shakespeare poems' text five times larger than tiny-shakespeare) with no modification.
 
-character-level Nano GPT. (token level is comming soon)
+character-level Nano GPT (token level is comming soon).

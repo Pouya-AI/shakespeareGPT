@@ -4,9 +4,15 @@ dataset: Shakespeare plays from kaggle (https://www.kaggle.com/datasets/kingburr
 
 ## character-level Nano GPT (token level is comming soon).
 number of parameters: 5478221 (~5.5 million)
+
 block_size = 256
+
 vocab_size = 77
+
 embedding dimesion: 384
+
 number of attention heads: 6
+
 each attention head size: 64 (384/6)
+
 I used no dropout layers 

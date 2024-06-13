@@ -4,6 +4,7 @@
 *.zip
 *.pkl
 *.xml
+.idea/
 .ipynb_checkpoints/
 __pycache__/
 datasets/

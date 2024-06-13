@@ -1,4 +1,4 @@
-# Nano GPT character level
+# Shakespeare GPT character level
 ## Review
 building & training GPT from scratch based on [Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out. tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
@@ -69,7 +69,7 @@ How o'er I, with thee a dove a most afoot
 But, on thyself at office, from five her  
 Must dovers, an evil think I will make perforce.  
 
-# Nano GPT word level 
+# Shakespeare GPT word level 
 ## Review
 Building and training shakespeare GPT (token level) from scrach.  
 I used the cl100k_base regex pattern, the tokenizer for GPT-4, to build my tokenizer.  

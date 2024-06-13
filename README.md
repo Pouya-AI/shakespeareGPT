@@ -1,3 +1,5 @@
+# Nano GPT character level
+## Review
 building & training GPT from scratch based on [Andrej Karpathy: Let's build GPT: from scratch, in code, spelled out. tutorial](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 ## Dataset
@@ -66,3 +68,15 @@ Lay dhy being that I have laid from Troy
 How o'er I, with thee a dove a most afoot  
 But, on thyself at office, from five her  
 Must dovers, an evil think I will make perforce.  
+
+# Nano GPT word level 
+## Review
+Building and training shakespeare GPT (token level) from scrach.  
+I used the cl100k_base regex pattern, the tokenizer for GPT-4, to build my tokenizer.  
+Negative Sampling algorithm is used to obtain embeddings for shakespeare's tokens. The only difference is that I used both the next token and the preceding token relative to the context, rather than just the next token, in Negative Sampling.  
+
+## Dataset
+shakespeare's text book 
+
+## Model
+not implemented yet 

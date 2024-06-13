@@ -3,6 +3,7 @@
 *.mp4
 *.zip
 *.pkl
+*.xml
 .ipynb_checkpoints/
 __pycache__/
 datasets/
